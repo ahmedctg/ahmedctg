@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Ullah
-- 🌱  💞️  Nodejs Developoer
+- 🌱  💞️ Laracel vue and Nodejs Developoer
 
 <!---
 ahmedctg/ahmedctg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
